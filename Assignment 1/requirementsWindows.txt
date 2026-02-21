@@ -1,0 +1,21 @@
+# Core Math and Science Libraries (pinned to stable 1.x for Windows/logic compatibility)
+numpy>=1.24.0,<2.0.0
+scipy>=1.10.0,<1.12.0
+matplotlib>=3.7.0,<3.8.0
+
+# Interpolation and Data Handling
+pandas>=2.0.0
+
+# Jupyter/IPython Environment (standard versions for 3.11)
+ipykernel>=6.23.0
+ipython>=8.12.0
+jupyter_client>=8.0.0
+jupyter_core>=5.3.0
+traitlets>=5.9.0
+
+# Utilities
+python-dateutil>=2.8.2
+six>=1.16.0
+packaging>=23.0
+pillow>=10.0.0
+tqdm>=4.65.0
